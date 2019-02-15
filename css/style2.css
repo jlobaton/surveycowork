@@ -1,0 +1,367 @@
+		.global{
+			border: 1;
+			width: 1024px;
+			padding: 0;
+			margin: 0px;
+
+		}
+		.top{
+			width: 100%;
+			height: 93px;
+		}
+
+		.footer{
+		}
+
+		.part1 {
+			background-image: url('imagenes/guai_01.png'); 
+			width: 795px;
+			height: 93px;
+			float: left;
+		}
+		.part2 {
+			background-image: url('imagenes/guai_02.png'); 
+			width: 131px;
+			height: 93px;
+			float: left;
+      text-align: end;
+			padding-top: 41px;
+		}
+		.part3 {
+			background-image: url('imagenes/guai_03.png'); 
+			width: 98px;
+			height: 93px;
+			float: left;
+
+		}		
+
+		.f1 {
+			background-image: url('imagenes/guai_04.jpg'); 
+			height: 159px;
+			text-align: center;
+    	padding-top: 56px;			
+		}		
+		.f2 {
+			background-image: url('imagenes/guai_05.png'); 
+			height: 35px;
+			font-size: 20px;
+			text-align: center;	
+			color: white;
+		
+		}		
+		.f3 {
+			background-image: url('imagenes/guai_06.png'); 
+			height: 172px;
+			color: white;
+			font-size: 53px;
+			text-align: center;
+			padding-left: 100px;
+			padding-right: 100px;			
+		}		
+		.f4 {
+			background-image: url('imagenes/guai_07.png'); 
+			height: 76px;
+		}		
+		.f5 {
+			background-image: url('imagenes/guai_08.png'); 
+			height: 150px;
+			color: #000;
+			font-size: 20px;
+			text-align: center;
+			padding-top: 26px;
+			padding-left: 60px;
+			padding-right: 60px;
+		}		
+
+		.menu{
+			float: left;
+		}
+
+		.menu_izq1 {
+			background-image: url('imagenes/menu_izq1.png'); 
+			height: 151px;
+			width: 248px;
+			padding-top: 57px;
+		}
+
+		.menu_izq2 {
+			background-image: url('imagenes/menu_izq2.png'); 
+			width: 248px;
+			height: 36px;
+		}
+		.menu_izq3 {
+			background-image: url('imagenes/menu_izq3.png'); 
+			width: 248px;
+			height: 44px;
+		}
+		.menu_izq4 {
+			background-image: url('imagenes/menu_izq4.png'); 
+			width: 248px;
+			height: 44px;
+		}
+		.menu_izq5 {
+			background-image: url('imagenes/menu_izq5.png'); 
+			width: 248px;
+			height: 44px;
+		}
+		.menu_izq6 {
+			background-image: url('imagenes/menu_izq6.png'); 
+			width: 248px;
+			height: 44px;
+		}
+		.menu_izq7 {
+			background-image: url('imagenes/menu_izq7.png'); 
+			width: 248px;
+			height: 44px;
+		}
+		.menu_izq8 {
+			background-image: url('imagenes/menu_izq8.png'); 
+			width: 248px;
+			height: 55px;
+		}
+
+
+		.card{
+			width: 290px;
+			float: left;
+			border: 0px;
+			font-size: 14px;
+		}
+
+		.cardpar1{
+			background-image: url('imagenes/guai_11.png'); 
+			height: 169px;
+		}
+		.cardpar2{
+			background-image: url('imagenes/guai_18.png'); 
+			height: 79px;
+		}
+		.cardpar3{
+			background-image: url('imagenes/guai_20.png'); 
+			height: 32px;
+		}
+		.cardpar4{
+			background-image: url('imagenes/guai_23.png'); 
+			height: 44px;
+		}
+		.cardpar5{
+			background-image: url('imagenes/guai_26.png'); 
+			height: 70px;
+		}
+		.cardpar6{
+			background-image: url('imagenes/guai_27.png'); 
+			height: 68px;
+		}
+
+
+		.cardparNew1{
+			/*background-image: url('imagenes/cardview1.png1'); */
+			height: 199px;
+			width: 289px;
+		}
+
+		.cardparNew2{
+		    background-image: url(../images/SurveyCowork_19_blue.jpg);
+		    height: 102px;
+		    padding-left: 35px;
+		    width: 289px;
+		    font-size: 20px;
+		    line-height: 19px;
+		    padding-top: 8px;
+		}
+
+		.cardparNew3{
+		    background-image: url(../images/SurveyCowork_20.jpg);
+		    height: 32px;
+		    width: 289px;
+		    padding-left: 59px;
+		    padding-top: 14px;
+		    font-size: 10px;
+		    font-weight: 700;
+		}
+		.cardparNew4{
+			background-image: url(../images/SurveyCowork_24.jpg);
+		    height: 63px;
+		    padding-left: 38px;
+		    width: 289px;
+		}
+
+		.cardparNew44{
+			background-image: url(../images/SurveyCowork_25.jpg);
+		    height: 80px;
+		    width: 289px;
+		}
+		.cardparNew5{
+			background-image: url('../images/SurveyCowork_26_blue.jpg'); 
+			height: 79px;
+			width: 289px;
+		}
+		.cardparNew6{
+			background-image: url('../images/SurveyCowork_27.jpg'); 
+			height: 85px;
+			text-align: center;
+			width: 289px;
+		}
+		.gusto{
+			text-align: center;
+			font-size: 12px;
+			padding-left: 49px;
+			padding-right: 49px;			
+		}
+		.ponte{
+			text-align: center;
+			font-size: 12px;
+			font-weight: bold;
+			padding-top: 10px;			
+		}
+
+		.datos{
+			font-size: 13px;
+		}
+
+		.signo{
+			padding-left: 77px;
+		   margin-right: 29px;
+		}
+
+		.dir{
+			padding-left: 14px;
+		}		
+		.nombre{
+			font-size: 9px;
+			font-weight: bold;
+		}
+
+		.boton {
+			border-radius: 15px 15px 15px 15px;
+			-moz-border-radius: 15px 15px 15px 15px;
+			-webkit-border-radius: 15px 15px 15px 15px;
+			border: 0px solid #000000;
+			background-color: #ba6677;
+			height: 22px;
+			width: auto;
+			color: white;
+			padding-left: 10px;
+			font-size: 1em;
+			position: absolute;
+		}
+
+
+.badge-info {
+    color: #fff;
+    background-color: #ba6677;
+}
+
+.badge-pill {
+    padding-right: .6em;
+    padding-left: .6em;
+    border-radius: 10rem;
+}
+.badge {
+    display: inline-block;
+    padding: .25em .6em;
+    font-size: 80%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    
+}
+
+#mensaje {
+	text-align: center;
+		background-image: url("../images/dash_mensaje.png");
+    font-size: 30px;
+    padding: 57px;
+}
+
+.personas{
+	text-align: center;
+	font-size: 0.73em;
+	display: block;
+	padding-top: 11px;
+}
+.gusto1 {
+	padding-left: 23px;
+	font-weight: bold;
+}
+.numero {
+	text-align: center;
+	font-size: 3.2em;
+		display: block;
+}
+
+.valor{
+	padding-left: 68px;
+	padding-top: 6px;
+	font-size: 0.6em;
+}
+.porcentaje{
+	font-size: 1.4em;
+	padding-left: 118px;
+
+}
+
+.facebook {
+	 background-image: url(../images/facebook.png);
+    text-decoration: none;
+    background-repeat: no-repeat;
+    height: 32px;
+    background-position: center;
+    /* font-size: 9px; */
+    padding-left: 109px;
+    padding-top: 10px;
+    font-size: 10px;
+    font-weight: 700;
+}
+.facebook a{
+	color:white;
+	text-decoration: none;	
+}
+
+.logo-comun {
+    background-repeat: no-repeat;
+    width: 31px;
+    height: 32px;
+    float: left;
+    padding-right: 39px;
+}
+
+.signopor{
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    margin-left: 200px;
+ }
+
+.colu{
+    float: left;
+    /* width: 3%; */
+    /* padding-right: 4px; */
+    padding-left: 0px;
+}
+
+.colu:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.datos.colu.signo2 img {
+    width: 17px;
+}
+
+
+.datos.colu.signo2 {
+    margin-left: 114px;
+}
+
+.signo3 {
+    background-image: url(../images/signos/tauro.svg);
+    width: 25px;
+    margin-top: 36px;
+    position: absolute;
+    height: 26px;
+    margin-left: 73px;
+}

@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+body {
+  width: 100%;
+  margin: 0 auto;
+  font-family: 'Source Sans Pro';
+  background-image: url('../limages/login.jpg');
+  background-position: center;
+background-position: top;
+    margin: 0px;
+    padding: 0px;
+
+  }
+
+.poli {
+  margin-left: 72px;
+  margin-top: 15px;
+  font-size: 10px;
+}
+
+.pie{
+	font-size: 10px;
+    padding: 75px;
+}
+
+.inicio {
+	margin-top: 27px;
+}
+
+.m1{
+  margin-right: 60px;	
+  font-weight: bolder;
+  margin-left: 70px;
+  color: #00b0af;
+  font-size: 1.8em;
+  margin-top: 64px;
+  line-height: 1.2em;
+  width: 85%;
+}
+
+
+span.corwok {
+    color: #004645;
+    font-size: 30px;
+}      
+
+.ingrese {
+  padding: 20px;
+  text-align: center;
+}
+
+.usuario {
+    margin: 0 auto;
+    text-align: right;
+    padding-right: 51px;
+    padding-top: 47px;
+}
+
+.logo {
+    margin-top: 99px;
+    margin-left: 70px;
+}
+
+.form_fondo {
+    /* font-size: 12px; */
+    width: 100%;
+    margin-top: 70px;
+    background-color: white;
+    max-width: 315px;
+    -webkit-box-shadow: 0px 0px 6px 1px rgba(240,240,240,1);
+    -moz-box-shadow: 0px 0px 6px 1px rgba(240,240,240,1);
+    box-shadow: 0px 0px 6px 1px rgba(240,240,240,1);
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.inicio {
+	padding-top: 20px;
+}
+
+.poli {
+    margin-left: 72px;
+    margin-top: 74px;
+    font-size: 10px;
+}
+
+._5h0c._5h0d {
+    width: 256px;
+}
+
+
+.usuario {
+    margin: 0 auto;
+    text-align: right;
+    padding-right: 36px;
+}
+
+
+@media (max-width: 900px) {
+    .form_fondo {
+	    max-width: 100%;      
+	    margin-left: 81px;
+	    margin-right: 81px;
+	    height: 272px;
+    }
+

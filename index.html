@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Survey Cowork</title>
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+		<link rel="stylesheet" href="css/style2.css">
+
+		<link rel="stylesheet" href="css/style-login.css">
+     <link rel="stylesheet" type="text/css" href="css/combo.css">	
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-10">
+					<div class="logo"><img src="limages/logo.png" class='img-responsive'></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 col-xs-12 login-f2c1 m1">
+					<p>
+					<span class="corwok">Survey Cowork</span> es una herramienta de co-working que permite elegir la ubicación ideal para cada integrante.
+					</p>
+					<p>Esto traveś de una raking de puestos de trabajo basado en sus características y gustos.</p>
+				</div>
+				<div class="col-md-6 col-xs-12 form_fondo">
+
+<!--             FORMULARIO  -->
+                <div class="form">
+                  <div class="ingrese">Ingrese a su cuenta</div>
+                  <div class="uni">
+                    <div class="select-box">   
+                      <label for="universidad" class="label select-box1"><span class="label-desc"></span> </label>
+                      <select id="universidad" class="select">
+                        <option value="Choice 1">HIT</option>
+                        <option value="Choice 2">WeWork</option>
+                        <option value="Choice 3">Urban Station</option>
+                      </select>                      
+                    </div>
+                  </div>        
+
+                  <div class="facul">
+                        <div class="select-box">   
+                          <label for="facultad" class="label select-box1"><span class="label-desc"></span> </label>
+                          <select id="facultad" class="select">
+                            <option value="Choice 1">Pampa</option>
+                            <option value="Choice 2">Tecno</option>
+                            <option value="Choice 3">Migueletes</option>
+                            <option value="Choice 4">Suipacha</option>
+                            <option value="Choice 5">Ugarte</option>
+                            <option value="Choice 6">Cañitas</option>
+                            <option value="Choice 7">Av. Libertador 1000</option>
+                            <option value="Choice 8">Ing. Enrique Butty 275</option>
+                            <option value="Choice 9">Corrientes 800</option>
+                            <option value="Choice 10">Soho</option>
+                            <option value="Choice 11">Microcentro</option>
+                            <option value="Choice 12">San Telmo</option>
+
+                          </select>
+                        </div>    
+                  </div>
+                  <div class="inicio">
+                     <div id="spinner"
+                      style="
+                          background: #4267b2;
+                          border-radius: 5px;
+                          color: white;
+                          height: 40px;
+                          padding-top: 20px
+                          text-align: center;
+                          width: 200px;">
+                      Loading
+                        <div class="fb-login-button" 
+                              data-max-rows="1" 
+                              data-width="233px"
+                              data-size="medium"  
+                              data-show-faces="false" 
+                              data-onlogin="checkLoginState()"
+                              data-auto-logout-link="true" 
+                              data-use-continue-as="false"></div>
+                     </div>  
+                        <div style="display:none" id="inic" class="fb-login-button" 
+                              data-max-rows="1" 
+                              data-width="233px"
+                              data-size="medium"  
+                              data-show-faces="false" 
+                              data-onlogin="checkLoginState()"
+                              data-auto-logout-link="true" 
+                              data-use-continue-as="false"></div>
+                  </div>
+
+            <!-- FIN FORMULARIO -->
+				
+					</div>	
+
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="poli"><a href="politica_de_privacidad.html" target = "_blank">Politica de Privacidad</a></div>
+				</div>
+			</div>
+		</div>
+
+
+      <div class="pie">
+      	<div class="col-md-12 text-center">
+      		        Copyriht 2019 Survey Cowork Company. Todos los derechos reservados
+      	</div>
+      </div>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+
+    <script src="js/facebookSDK.js"></script>
+    <script src="js/combo.js" type="text/javascript"></script>
+  
+<script>
+// Initialize tooltip component
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+
+// Initialize popover component
+$(function () {
+  $('[data-toggle="popover"]').popover()
+})
+</script>
+
+	</body>
+</html>

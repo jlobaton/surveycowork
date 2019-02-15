@@ -1,0 +1,220 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+body {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #f8f9fc;
+  background-repeat: no-repeat;
+  font-family: 'Source Sans Pro';
+
+  }
+
+.mensaje p {
+	color: white;
+	font-weight: bold;
+
+}
+
+.c1 {
+    background-image: url('../images/SurveyCowork_01.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 46px;
+    height: 803px;
+}
+
+.escrito{
+	font-size: 30px;
+}
+
+.c22 {
+    background-image: url(../images/diseno1.jpg);
+        width: 860px;
+    height: 507px;
+}
+
+.c2 {
+    text-align: center;
+    background-color: white;
+}
+
+.c2 img { 
+    max-width: 1102px;
+    width: 100%;
+}
+
+.c3 {
+   /* background-image: url('../images/SurveyCowork_03.jpg'); 
+    /*height: 183px; */   
+}
+
+.zoodiaco {
+  padding-left: 30px;
+}
+
+.c44444 {
+    background-image: url('../images/SurveyCowork_04.jpg');     		
+    width: 48px;
+
+}
+.c5 {
+    background-image: url('../images/SurveyCowork_05.jpg'); 
+    width: 183px;
+
+}
+.c6 {
+    background-image: url('../images/SurveyCowork_06.jpg'); 
+    height: 120px;    
+}
+.c7 {
+    background-image: url('../images/SurveyCowork_07.jpg'); 
+    height: 174px;    
+}
+.c8 {
+	 width: 289px;
+    height: 317px;    
+}
+.c9 {
+ 	 width: 296px;
+    height: 317px;    
+}
+.c10 {
+	 width: 333px;
+    height: 317px;    
+ }
+
+
+.c4f1 {
+    background-image: url('../images/SurveyCowork_11.jpg'); 
+    width: 296px;
+    height: 111px;
+    background-repeat: no-repeat;
+    padding-top: 67px;
+    padding-left: 80px;
+}
+
+.fondo2{
+    background-image: url('../images/SurveyCowork_15.jpg'); 
+    height: 449px;
+    width: 296px;    
+}
+
+.c4f2 {
+    text-transform: uppercase;
+    font-weight: 600;
+    background-repeat: no-repeat;
+    padding-top: 25px;
+    padding-left: 28px;
+    font-size: 10px;
+    width: 296px;
+}
+
+.por1, .por2, .por3, .por4, .por5, .por6{
+    font-weight: normal;  
+    margin-left: 190px;
+    font-size: 14px;
+    padding-top: 0px;
+    margin-top: -7px;
+
+}
+
+.c44f1 { 
+background-image: url(../images/SurveyCowork_13.jpg);
+    height: 111px;
+    width: 299px;
+    padding-top: 74px;
+    padding-left: 82px;
+    text-transform: uppercase;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.c44f2 { 
+    background-image: url(../images/SurveyCowork_16.jpg);
+    height: 67px;
+    width: 299px;
+    padding-left: 25px;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 25px;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    padding-right: 25px;
+}
+
+.c44f3 { 
+   /* background-image: url('../images/SurveyCowork_17.jpg'); */
+    height: 139px;
+    width: 145px;
+    background-repeat: no-repeat;
+}
+
+.f444{
+    max-width: 867px;
+    margin: 0 auto;
+}
+.c44f33 { 
+    background-image: url(../images/SurveyCowork_18.jpg);
+    width: 154px;
+    height: 139px;
+    font-size: 12px;
+    padding-top: 26px;
+    color: white;
+    font-weight: bold;
+    padding-left: 18px;
+}
+
+.c4f2final {
+    background-image: url(../images/SurveyCowork_56.jpg);
+    height: 50px;
+    width: 296px;
+
+
+}
+
+.c44f33 ul {
+  padding-left: 0px;  
+} 
+
+.footer {
+    padding-top: 100px;
+    font-size: 11px;
+}
+
+.footer2{
+  text-align: right;
+  padding-top: 100px;
+  padding-right: 32px;
+  font-size: 11px;
+
+}
+
+.c45f33 {
+    padding-top: 48px;
+    width: 184px;
+    margin: 0 auto;
+    background-color: white;
+    height: 219px;
+}
+
+.c45f33 li {
+  list-style: none;
+   padding-bottom: 28px;
+}
+
+.c45f33 ul {
+  padding-left: 0;
+}
+
+.c45f33 .custom-radio {
+      padding-bottom: 15px;
+}
+
+.usuario {
+    margin: 0 auto;
+    text-align: right;
+    padding-right: 37px;
+    padding-top: 18px;
+}
